@@ -92,4 +92,4 @@ Label1.grid(column=4, row=4, padx=15, pady=15)
 
 window.mainloop()
 
-![Preview of the proyect](https://github.com/ximenagomeez/Proyecto/blob/main/New%20Note%2017.08.2021%20rxkHs.pdf)
+![Preview of the proyect]()
