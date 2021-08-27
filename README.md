@@ -4,7 +4,7 @@
 Este proyecto consiste en la creación de un programa que pueda calcular operaciones básicas. El objetivo es ser capaz de abrir el programa en una diferente pestaña
 y que esta aplicación sea capaz de resolver operaciones básicas.
 
-
+![Aquí la descripción de la imagen por si no carga](https://github.com/ximenagomeez/Proyecto/blob/main/New%20Note%2017.08.2021%20rxkHs.pdf)
 
 """
 Proyecto Calculadora básica
@@ -91,3 +91,5 @@ Label1.grid(column=4, row=4, padx=15, pady=15)
 
 
 window.mainloop()
+
+![Preview of the proyect](https://github.com/ximenagomeez/Proyecto/blob/main/New%20Note%2017.08.2021%20rxkHs.pdf)
