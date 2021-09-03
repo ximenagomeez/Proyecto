@@ -124,4 +124,4 @@ window.mainloop()
 
 
 
-![Preview of the proyect](https://github.com/ximenagomeez/Proyecto/blob/main/Captura%20de%20pantalla%202021-08-27%20a%20la(s)%2010.16.07.png
+![Preview of the proyect](https://github.com/ximenagomeez/Proyecto/blob/main/preview.png)
